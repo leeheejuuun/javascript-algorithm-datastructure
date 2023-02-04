@@ -1,4 +1,4 @@
-# javascript-algorithm
+# javascript-algorithm & Data-Structure
 
 ## 알고리즘
 
