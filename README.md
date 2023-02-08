@@ -13,3 +13,5 @@
 2장 [2/6 자바스크립트의 독특한 특징, 등가와 형](https://github.com/leeheejuuun/javascript-algorithm-datastructure/blob/main/datastructure/2%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%EB%8F%85%ED%8A%B9%ED%95%9C%20%ED%8A%B9%EC%A7%95.md)
 
 3장 [2/7 자바스크립트 숫자, 숫자 알고리즘](https://github.com/leeheejuuun/javascript-algorithm-datastructure/blob/main/datastructure/3%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%88%AB%EC%9E%90.md)
+
+4장 [2/8 자바스크립트 문자열]()
