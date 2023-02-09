@@ -14,4 +14,4 @@
 
 3장 [2/7 자바스크립트 숫자, 숫자 알고리즘](https://github.com/leeheejuuun/javascript-algorithm-datastructure/blob/main/datastructure/3%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%88%AB%EC%9E%90.md)
 
-4장 [2/8 자바스크립트 문자열 part.1 - 문자열 기본, 정규 표현식](https://github.com/leeheejuuun/javascript-algorithm-datastructure/blob/main/datastructure/4%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%AC%B8%EC%9E%90%EC%97%B4.md)
+4장 [2/8 자바스크립트 문자열 기본, 정규 표현식](https://github.com/leeheejuuun/javascript-algorithm-datastructure/blob/main/datastructure/4%EC%9E%A5%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%AC%B8%EC%9E%90%EC%97%B4.md)
